@@ -20,10 +20,15 @@ Real-world scenarios for troubleshooting and resolution testing
 ⚙️ Key Features:
 Vendor-agnostic command-line focus (Linux/Unix and Windows compatible)
 
-Structured sections with examples and outputs
+Structured sections with examples and outputs.
 
 Practical use of BIND-based commands and local host DNS testing
 
 Suitable for both lab practice and real-world troubleshooting reference
 
 This project serves as a foundational DNS knowledge base for infrastructure engineers, cybersecurity analysts, and DevOps professionals who work with name resolution, server management, or network design.
+
+
+Here is the link to visit this blog post: 
+
+https://medium.com/@jobanjitsinghamritsar/what-is-domain-name-system-how-does-it-works-6a51f6b296f2
