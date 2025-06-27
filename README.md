@@ -1,6 +1,6 @@
 # DNS-Learning-Journey
 
-his repository presents a detailed, command-line-driven exploration of the Domain Name System (DNS), focusing on its core architecture, operational mechanics, and practical use cases. Designed for network engineers, system administrators, and learners preparing for certifications, this project outlines key DNS functionalities and supports them with hands-on command-line examples.
+This repository presents a detailed, command-line-driven exploration of the Domain Name System (DNS), focusing on its core architecture, operational mechanics, and practical use cases. Designed for network engineers, system administrators, and learners preparing for certifications, this project outlines key DNS functionalities and supports them with hands-on command-line examples.
 
 🔧 Project Scope:
 Overview of DNS hierarchy, root servers, and resolution flow
